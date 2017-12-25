@@ -1,7 +1,7 @@
 # Chrome-plug(谷歌插件系列)
 整理日常开发中经常用到的谷歌浏览器插件
 
-**访问谷歌扩展程序商店需要翻墙,这里提供谷歌访问助手的本地版，安装完成后可访问谷歌扩展程序商店,[百度网盘地址](https://pan.baidu.com/s/1sl2v0Ix)*
+**访问谷歌扩展程序商店需要翻墙,这里提供谷歌访问助手的本地版，安装完成后可访问谷歌扩展程序商店,[百度网盘地址](https://pan.baidu.com/s/1sl2v0Ix)**
 
 ### [谷歌访问助手](https://chrome.google.com/webstore/detail/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B/gocklaboggjfkolaknpbhddbaopcepfp?hl=zh-CN)
 最简单易用的谷歌访问助手,为chrome扩展用户量身打造。可以解决chrome扩展无法自动更新的问题，同时可以访问谷歌google搜索，gmail邮箱，google+等谷歌服务。
